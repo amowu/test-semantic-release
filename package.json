@@ -1,0 +1,19 @@
+{
+  "name": "test-semantic-release",
+  "version": "0.0.0-development",
+  "description": "see https://github.com/semantic-release/semantic-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amowu/test-semantic-release.git"
+  },
+  "author": "Amo Wu <amo260@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amowu/test-semantic-release/issues"
+  },
+  "homepage": "https://github.com/amowu/test-semantic-release#readme"
+}
