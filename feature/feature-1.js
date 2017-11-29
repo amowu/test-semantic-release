@@ -7,3 +7,4 @@
         return 'I am feature-1';
     }
 })();
+
