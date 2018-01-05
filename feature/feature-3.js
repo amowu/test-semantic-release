@@ -5,4 +5,3 @@
         return 'I am feature 3!';
     }
 })();
-
