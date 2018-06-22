@@ -6,6 +6,6 @@
     }
 
     function hotfix2 () {
-	return 'foo';
+	return 'fooo';
     }
 })();
